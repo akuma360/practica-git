@@ -1,0 +1,1 @@
+.gitignore sirve para que listas o los patrones de nombres que deseas sean ignorados.
